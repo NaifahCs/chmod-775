@@ -27,7 +27,7 @@ Others: read, execute ( write is  not allowed)
 # How It Works:
 	1.Create both files:
        `touch myfile.py`
-        `nano taskfile.py`
+        `touch taskfile.py`
     2.Run the script:
        python3 taskfile.py
 	3.Check the permissions:
