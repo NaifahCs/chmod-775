@@ -18,9 +18,11 @@ The script updates permissions to: `rwxrwxr-x` (which means `775` in octal)
 
 
 # What is `rwxrwxr-x`?
-Owner: read, write, execute 
-Group: read, write, execute 
-Others: read, execute ( write is  not allowed)
+    Owner: read, write, execute 
+
+    Group: read, write, execute 
+    
+    Others: read, execute ( write is  not allowed)
 
 
 
